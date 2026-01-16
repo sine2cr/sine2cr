@@ -1,19 +1,7 @@
 ## 👋 Hi , I am sine2cr <img src="./img/meow_enjoy.gif" width="24px" heighth="24px" />
 
- A backend rookie Javaer 🐦 from **ChangSha, China**.
+ A backend rookie 🐦 from **ChangSha, China**.
 
-## 🏠 Blog:
-
-**<img src="./img/meow_attention.gif" width="24px" heighth="24px" /> [htps://blog.sine2cr.cn ](https://blog.sine2cr.cn/) <img src="./img/meow_coffee.png" width="24px" heighth="24px" />**
-
-## 👨‍💻 Looking for one job:
-
-### Project Exp:
-
-### Skill:
-
-### Hopes & Contact:
-[email](sine2cr@163.com)
 
 ## 📊 Stats:
 
